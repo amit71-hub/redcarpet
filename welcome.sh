@@ -9,6 +9,7 @@ function display_welcome_message() {
     local host=$(hostname)
 
 
+
     echo "Welcome back, $user!"
     echo "Current date and time: $datetime"
     echo "System uptime: $uptime"
